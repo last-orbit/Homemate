@@ -1,5 +1,5 @@
 # HomeMate Project
-[HomeMate-12-02-2024_02_21_PM](https://github.com/user-attachments/assets/d73cf182-d0ce-4ffe-83b3-596936344fda)
+[Homemate Screenshot](https://res-console.cloudinary.com/diy45ayev/thumbnails/v1/image/upload/v1733145858/SG9tZU1hdGUtMTItMDItMjAyNF8wMl8yMV9QTV9pcDBqOWQ=/drilldown)
 
 This project was developed as part of the Ironhack Module 2 Mini Project. The purpose of the project was to create a Single Page Application (SPA) consisting of only one HTML page in a collaborative setting. Our team chose to work on the Apartment Rental Admin project.
 
