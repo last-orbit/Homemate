@@ -6,7 +6,7 @@ import HomePage from "./components/pages/HomePage";
 import SavedFlat from "./components/pages/SavedFlats";
 import AddFlats from "./components/pages/AddFlats";
 import About from "./components/pages/About";
-import NotFound from "./components/Pages/NotFound";
+import NotFound from "./components/pages/NotFound";
 import ApartmentBase from "./assets/Data.json";
 import DetailPage from "./components/pages/DetailPage";
 import React, { useState } from "react";
