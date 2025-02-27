@@ -3,6 +3,8 @@
 
 This project was developed as part of the Ironhack Module 2 Mini Project. The purpose of the project was to create a Single Page Application (SPA) consisting of only one HTML page in a collaborative setting. Our team chose to work on the Apartment Rental Admin project.
 
+[Deployed Site Here](https://kaleidoscopic-douhua-e94122.netlify.app/)
+
 ## Purpose 🏠
 
 The main objective of this project was to develop an administrative interface for managing apartment rentals. The application allows administrators to add, update, and delete apartment listings, as well as view and manage rental applications.
